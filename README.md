@@ -1,5 +1,6 @@
-# podcast
-Podcast repository for Strongly Hyped Language 
+# Strongly Hyped Language
+
+Strongly Hyped Language is a podcast that speaks with tech experts at a remarkably adept level. We are appealing to developers who want more for their time: More details, more tech, and more stories. We'll be deep diving into challenging topics like cryptography, timezones, microservice architectures, databases, and much more. Get an unfiltered peek into the minds of professionals that make the tech industry work. No fluff, just 30 minutes of great stuff.
 
 Todo..
 ==
